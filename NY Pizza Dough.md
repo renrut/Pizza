@@ -1,9 +1,8 @@
-#New York Style Dough
+# New York Style Dough
 
 This recipe is pretty much a direct adaptation of [Kenji's Pizza Dough](https://www.seriouseats.com/recipes/2010/10/new-york-style-pizza.html).
 
 ### Proportions
-TODO 
 
 | Ingredient  | Size |
 | ----------- | ---- |
