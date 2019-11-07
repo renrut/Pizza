@@ -1,2 +1,2 @@
 # Pizza-Dough
-Repository for my pizza dough Recipes
+Repository for my pizza sauce and dough Recipes
