@@ -7,7 +7,7 @@
 | ----------- | ---- |
 | Bread Flour | 450g |
 | Wheat Flour | 50g |
-| Warm Water | 300g |
+| Warm Water | 340g |
 | Sourdough Starter | 1c |
 | Kosher Salt | 15g |
 | Extra Virgin Olive Oil | 15g |
