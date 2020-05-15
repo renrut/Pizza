@@ -23,13 +23,13 @@ Turn out dough onto the table and knead. I like to use a bench scraper because t
 Oil your hands and lightly oil 3 deli containers/empty yogurt containers/tupperware. Divide the dough by weight into 3 parts. It should be ~360g per container, but do the math to be sure. Form each into a ball and place seam side down in the container. Put the lid on each container and place in the fridge for __at least 24 hrs__. I prefer 2-3 days in the fridge.
 
 After the cold ferment, we're looking for a good long strands of gluten that almost look snotty.
-![https://photos.app.goo.gl/9mVCWXK5pxVkiMud6](https://photos.app.goo.gl/9mVCWXK5pxVkiMud6)
+![https://i.imgur.com/C2nYRQD.jpg](https://i.imgur.com/C2nYRQD.jpg)
 
 
 ### Prepare a da' Pizza
 Pull the dough out no more than 3 hours and no less than 1 hour before you want to make pizza. I usually preheat the oven when I pull the dough out to as hot as it goes. This gives the oven and pizza stone enough time to get really hot. Pull the dough out of each container and reform into a ball in your hands. 
 
-![https://photos.app.goo.gl/XPhFGQVypUhFF2Ws5](https://photos.app.goo.gl/XPhFGQVypUhFF2Ws5)
+![https://i.imgur.com/ld6wRlo.jpg](https://i.imgur.com/ld6wRlo.jpg)
 
 
 Place each ball seam side down into a __lightly__ oiled cereal bowl and let come up to temperature. I typically preheat the oven with the oven stone about an hour before too to help the stone get warm and it warms the dough up.
@@ -46,5 +46,5 @@ Put toppings on the pizza and shake it onto the preheated pizza stone. Rotate if
 
 Let cool or don't but enjoy!
 
-![https://photos.app.goo.gl/1HBqEosY6oGNqhrEA](https://photos.app.goo.gl/1HBqEosY6oGNqhrEA)
+![https://i.imgur.com/rJfbsPt.jpg](https://i.imgur.com/rJfbsPt.jpg)
 
