@@ -1,5 +1,5 @@
 
-###Ingredients
+### Ingredients
 - 28 Oz Can Whole Peel San Marzano Tomatoes
 - 1 tb. Extra Virgin Olive Oil
 - 1 tb. Butter (if vegan, just use more EVOO)
@@ -12,7 +12,7 @@
 - Several Pinches Kosher Salt
 - Fresh Pepper
 
-###Process
+### Process
 1. Heat oil and butter on medium in a sauce pan. When butter is melted and hot, add garlic. It should bubble. Stir until fragrant about 1 min. Add red pepper, dry oregano, and dry basil (if using). Cook for another minute or so.
 
 2. Add tomatoes and puree with immersion blender. You can pre-puree with a food processor instead if you want. Try to just do short pulses and keep it sort of chunky, not fully pureed.
