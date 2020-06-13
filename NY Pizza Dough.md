@@ -1,6 +1,6 @@
 # New York Style Dough
 
-This recipe is pretty much a direct adaptation of [Kenji's Pizza Dough](https://www.seriouseats.com/recipes/2010/10/new-york-style-pizza.html).
+This recipe is my own adaptation of [Kenji's Pizza Dough](https://www.seriouseats.com/recipes/2010/10/new-york-style-pizza.html) with what I've learned from trial and error.
 
 ### Proportions
 
@@ -13,14 +13,19 @@ This recipe is pretty much a direct adaptation of [Kenji's Pizza Dough](https://
 | Sugar | 15g |
 | Luke Warm Water | 425g |
 
+## Option 1 - Knead
 ### Mix a da' Pizza
 Combine flour, salt, yeast in a bowl and wisk together until homogenous. Add olive oil and water and mix with hands until shaggy, sticky dough is formed.
 
 ### Knead a da' Pizza
 Turn out dough onto the table and knead. I like to use a bench scraper because the dough is typically quite sticky. Try to resist adding more flour to the mix, unless the dough feels very wet. Knead for a while, and you will feel the dough become less sticky, although it will never become not sticky. You are done kneading once the dough is relatively smooth about 10-15 mins. I can never get mine to pass a full window pane test because I usually get impatient at this point, but it gets close enough. 
 
+## Option 2 - Food Processor (Preferred)
+Combine flour, salt, yeast in a bowl of a food processor and give it a quick spin to get homogenous. I use a dough blade, but I dont think it matters. Add olive oil and water and run the food processor for ~4 mins until its a smooth ball. It will be higher hydration than the above method since you aren't adding any extra flour, but I think the dough gets a lot crispier this way.
+
+## After Kneading...
 ### Cold Ferment a da' Pizza
-Oil your hands and lightly oil 3 deli containers/empty yogurt containers/tupperware. Divide the dough by weight into 3 parts. It should be ~360g per container, but do the math to be sure. Form each into a ball and place seam side down in the container. Put the lid on each container and place in the fridge for __at least 24 hrs__. I prefer 2-3 days in the fridge.
+Oil your hands and lightly oil 4 deli containers/empty yogurt containers/tupperware. Divide the dough by weight into 3 parts. It should be ~360g per container, but do the math to be sure. Form each into a ball and place seam side down in the container. Put the lid on each container and place in the fridge for __at least 24 hrs__. I prefer 2-3 days in the fridge.
 
 After the cold ferment, we're looking for a good long strands of gluten that almost look snotty.
 ![https://i.imgur.com/C2nYRQD.jpg](https://i.imgur.com/C2nYRQD.jpg)
